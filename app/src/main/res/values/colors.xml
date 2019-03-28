@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#006064</color>
+    <color name="colorPrimaryDark">#870000</color>
+    <color name="colorAccent">#bf360c</color>
+    <color name="corFundo">#80A6F5FC</color>
+    <color name="corFonte">#1377CC</color>
+    <color name="corFundoBotao">#1492F8</color>
+    <color name="corFonteBotao">#FFFFFF</color>
+
+</resources>
